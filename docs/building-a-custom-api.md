@@ -1,6 +1,6 @@
 # Building a custom API
 
-Whlie VUHF is very much aimed at rendering headless content on the actual routes of the published Umbraco content, you can also use the same rendering in your own custom APIs.
+While VUHF is very much aimed at rendering headless content on the actual routes of the published Umbraco content, you can also use the same rendering in your own custom APIs.
 
 VUHF ships with an API controller base class you can use as a starting point: [`HeadlessApiController`](../src/Vertica.Umbraco.Headless.Core/Controllers/HeadlessApiController.cs). An implementation of this base class could look like this:
 
